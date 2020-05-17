@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jingyinji.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-17T12:53:28.677Z</updated>
+    <updated>2020-05-17T12:57:37.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jingyinji.github.io"/>
     <link rel="self" href="https://jingyinji.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jingyinji.github.io/images/avatar.png</logo>
     <icon>https://jingyinji.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能作曲识别]]></title>
+        <id>https://jingyinji.github.io/post/ren-gong-zhi-neng-zuo-qu-shi-bie/</id>
+        <link href="https://jingyinji.github.io/post/ren-gong-zhi-neng-zuo-qu-shi-bie/">
+        </link>
+        <updated>2020-05-17T12:55:14.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="这是一个测试">这是一个测试</h3>
+<h2 id="哈哈哈哈">哈哈哈哈<img src="https://jingyinji.github.io/post-images/1589720245891.jpg" alt="" loading="lazy"></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jingyinji.github.io/post/hello-gridea/</id>
